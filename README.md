@@ -16,8 +16,7 @@ An API-first platform for the Catholic intellectual and devotional tradition.
 
 ---
 
-> **You are in the right place — but the code is not here.**
-> This repository is a public landing page. The platform itself is developed in a private monorepo. Everything below points back to the live site, where you can read the docs, sign up for a key, or get in touch.
+The platform is developed privately. This repository is the public threshold — where developers find their way in.
 
 ---
 
